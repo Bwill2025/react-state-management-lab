@@ -94,7 +94,7 @@ const App = () => {
     if (money < fighter.price) {
 
 
-      console.log('Not enough money');
+      console.log('Not enough money'); //make visual
       return;
     }
 
@@ -170,7 +170,7 @@ const App = () => {
 
 
 
-      
+
     </div>
   );
 };
